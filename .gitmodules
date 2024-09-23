@@ -1,0 +1,9 @@
+[submodule "osu-loongarch"]
+	path = osu-loongarch
+	url = git@github.com:Catty2014/osu-loongarch.git
+[submodule "osu-native-loongarch"]
+	path = osu-native-loongarch
+	url = git@github.com:Catty2014/osu-native-loongarch.git
+[submodule "osu-framework-loongarch"]
+	path = osu-framework-loongarch
+	url = git@github.com:Catty2014/osu-framework-loongarch.git
