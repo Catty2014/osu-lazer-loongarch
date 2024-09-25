@@ -7,3 +7,4 @@
 [submodule "osu-framework-loongarch"]
 	path = osu-framework-loongarch
 	url = git@github.com:Catty2014/osu-framework-loongarch.git
+	branch = sdl-audio
